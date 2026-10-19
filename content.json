@@ -1,0 +1,107 @@
+{
+  "profile": {
+    "name": "Muhamad Faiz Fakhriy Dzikrullah",
+    "nickname": "",
+    "intro": "Just a little world of mine. Sebuah ruang untuk cerita, momen, dan lagu yang ingin disimpan.",
+    "bio": "Not everything needs a big explanation. Some things are best understood through the moments we keep, the music we return to, and the little details that make a day feel like ours.",
+    "city": "",
+    "activity": "",
+    "interests": "Music, little moments, photography",
+    "principle": "Collecting moments, not perfection. Learning as I go, keeping the good things close.",
+    "email": "",
+    "instagram": "",
+    "photo": "./assets/portrait.webp"
+  },
+  "tracks": [
+    {
+      "id": "track-0",
+      "title": "Multo",
+      "artist": "Cup of Joe",
+      "album": "Multo (single, 2024)",
+      "cover": "https://i.scdn.co/image/ab67616d0000e1a3394048503e3be0e65e962638",
+      "spotify": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF",
+      "note": "Lagu tentang perasaan yang menetap, bahkan saat seseorang atau sebuah kenangan sudah jauh. Melodi yang terasa seperti membuka kembali halaman lama.",
+      "source": "https://www.youtube.com/watch?v=CcS1fsuT10M",
+      "vibe": "NOSTALGIC",
+      "tags": [
+        "nostalgic",
+        "longing",
+        "late night"
+      ]
+    },
+    {
+      "id": "track-1",
+      "title": "About You",
+      "artist": "The 1975",
+      "album": "Being Funny In A Foreign Language (2022)",
+      "cover": "https://i.scdn.co/image/ab67616d0000e1a300702474f8e0e2b6155d48e3",
+      "spotify": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "note": "Atmosfernya seperti mimpi yang samar: hangat, luas, dan sedikit melankolis. Cocok untuk mengenang seseorang tanpa harus menjelaskan semuanya.",
+      "source": "https://www.youtube.com/watch?v=tGv7CUutzqU",
+      "vibe": "DREAMY",
+      "tags": [
+        "dreamy",
+        "reminiscing",
+        "midnight"
+      ]
+    },
+    {
+      "id": "track-2",
+      "title": "Nina",
+      "artist": ".Feast",
+      "album": "Nina (single, 2024)",
+      "cover": "https://i.scdn.co/image/ab67616d0000e1a339695d4c16489cdf60bef536",
+      "spotify": "https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm",
+      "note": "Sebuah pengingat tentang kasih sayang, jarak, dan harapan yang tetap dibawa. Lagu yang terasa personal dan penuh doa baik.",
+      "source": "https://www.youtube.com/watch?v=iQo-8wx0l0Y",
+      "vibe": "TENDER",
+      "tags": [
+        "tender",
+        "hope",
+        "heartfelt"
+      ]
+    },
+    {
+      "id": "track-3",
+      "title": "everything u are",
+      "artist": "Hindia",
+      "album": "Doves, '25 on Blank Canvas (2025 Spotify album listing)",
+      "cover": "https://i.scdn.co/image/ab67616d0000e1a305898628baab6ef07a0a4d03",
+      "spotify": "https://open.spotify.com/track/5WOSNVChcadlsCRiqXE45K",
+      "note": "Tentang menerima seseorang sebagai dirinya sendiri. Nuansanya intim, seperti percakapan yang tak perlu dibuat sempurna.",
+      "source": "https://www.youtube.com/watch?v=da4Xw2Kr79w",
+      "vibe": "INTIMATE",
+      "tags": [
+        "acceptance",
+        "warm",
+        "soft"
+      ]
+    },
+    {
+      "id": "track-4",
+      "title": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "artist": "Banda Neira",
+      "album": "Yang Patah Tumbuh, Yang Hilang Berganti (2016)",
+      "cover": "https://i.scdn.co/image/ab67616d0000e1a37a173b7767ca05f9bb17464e",
+      "spotify": "https://open.spotify.com/track/0hzIdk9dIvDablVS6UW7Vi",
+      "note": "Lagu yang menenangkan tentang perubahan dan kesempatan untuk tumbuh lagi. Sebuah pengingat bahwa kehilangan bukan akhir dari cerita.",
+      "source": "https://www.youtube.com/watch?v=fY8L4K30hDw",
+      "vibe": "HOPEFUL",
+      "tags": [
+        "hopeful",
+        "growth",
+        "healing"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "id": "portrait-1",
+      "src": "./assets/portrait.webp",
+      "caption": "Foto profil",
+      "date": "",
+      "shape": "portrait"
+    }
+  ],
+  "education": []
+}

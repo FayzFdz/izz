@@ -1,0 +1,13 @@
+{
+  "name": "little-world-personal-music-journal",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Interactive personal portfolio with secure admin mode and Supabase persistence, adapted for Vercel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
